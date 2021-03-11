@@ -1,0 +1,7 @@
+Tobias Ekman
+
+I .gitignore bör man ha med filer som inte tillhör källkoden. T.ex. sånt som skapas av IDE'n, exempelvis inställningsfiler eller java.class-filerna som man använder för att köra programmet.
+
+En applicationserver är väl i stort sett ett program man behöver på hostdatorn för att kunna köra sitt javaprogram. Den sköter saker som t.ex. kommunikationen med operativsystem eller en databas. Saker som vi utvecklare inte orkar hantera. 
+
+Jag skulle först och främst titta på vilka IDE'er som är designade för att använda de programmeringsspråk/ramverk som ska användas i projektet. Sen se vilken IDE teamet känner sig hemma i och är vana att jobba med.
