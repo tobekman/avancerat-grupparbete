@@ -1,0 +1,11 @@
+# Vilka filer bör finnas i .gitignore?
+- .idea
+- out/
+
+# Vad är en applikationsserver och varför behövs den?
+- Programvara som kör på en server för att leverera och processera dynamisk data till klienter (webbläsare, mobilappar, osv.).
+
+# Vilka parametrar skulle du titta på för att bedöma vilket IDE som skall användas i ett utvecklingsprojekt?
+- Vilket/vilka språk man förväntas använda (Java, C, JS, skulle innebära helt olika alternativ)
+- Vad varje IDE har för funktioner som man är bekväm med eller behöver
+- Vad man föredrar eller är van att jobba med
